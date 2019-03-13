@@ -40,9 +40,3 @@ Vale a pena se familiarizar com cada uma das bibliotecas que vão ser usadas:
 - [Matplotlib](https://matplotlib.org/tutorials/index.html)
 - [PyTorch](https://pytorch.org/tutorials/)
 
-# MAC0460---USP
-# Machine-Learning---MAC460
-# Machine-Learning---MAC460
-# MAC0460---USP
-# Machine-Learning---MAC460
-# MAC0460---Machine-Learning
